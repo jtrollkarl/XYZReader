@@ -1,0 +1,7 @@
+#Tue Nov 29 01:11:08 CET 2016
+base.0=C\:\\Users\\Jay\\Documents\\GitHub\\XYZReader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bb340c6e8e1cdd8085fdfe8edabd5a6b9bf43696
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Jay\\Documents\\GitHub\\XYZReader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d0ae307f8bf4a8c0df6c61570eaf6b39376ece24\\classes.dex
+base.1=C\:\\Users\\Jay\\Documents\\GitHub\\XYZReader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_d0ae307f8bf4a8c0df6c61570eaf6b39376ece24
+file.0=C\:\\Users\\Jay\\Documents\\GitHub\\XYZReader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_bb340c6e8e1cdd8085fdfe8edabd5a6b9bf43696\\classes.dex
