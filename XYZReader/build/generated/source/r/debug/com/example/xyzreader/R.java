@@ -2752,13 +2752,14 @@ containing a value of this type.
         public static final int notification_bg_normal=0x7f020062;
         public static final int notification_bg_normal_pressed=0x7f020063;
         public static final int notification_icon_background=0x7f020064;
-        public static final int notification_template_icon_bg=0x7f02006a;
-        public static final int notification_template_icon_low_bg=0x7f02006b;
+        public static final int notification_template_icon_bg=0x7f02006b;
+        public static final int notification_template_icon_low_bg=0x7f02006c;
         public static final int notification_tile_bg=0x7f020065;
         public static final int notify_panel_notification_icon_bg=0x7f020066;
         public static final int padded_divider=0x7f020067;
         public static final int photo_background_protection=0x7f020068;
-        public static final int white_selectable_item_background_circle=0x7f020069;
+        public static final int rectangle_gradient=0x7f020069;
+        public static final int white_selectable_item_background_circle=0x7f02006a;
     }
     public static final class fraction {
         public static final int detail_body_line_spacing_multiplier=0x7f0a0000;

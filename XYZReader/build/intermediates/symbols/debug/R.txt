@@ -704,13 +704,14 @@ int drawable notification_bg_low_pressed 0x7f020061
 int drawable notification_bg_normal 0x7f020062
 int drawable notification_bg_normal_pressed 0x7f020063
 int drawable notification_icon_background 0x7f020064
-int drawable notification_template_icon_bg 0x7f02006a
-int drawable notification_template_icon_low_bg 0x7f02006b
+int drawable notification_template_icon_bg 0x7f02006b
+int drawable notification_template_icon_low_bg 0x7f02006c
 int drawable notification_tile_bg 0x7f020065
 int drawable notify_panel_notification_icon_bg 0x7f020066
 int drawable padded_divider 0x7f020067
 int drawable photo_background_protection 0x7f020068
-int drawable white_selectable_item_background_circle 0x7f020069
+int drawable rectangle_gradient 0x7f020069
+int drawable white_selectable_item_background_circle 0x7f02006a
 int fraction detail_body_line_spacing_multiplier 0x7f0a0000
 int id action0 0x7f0d008f
 int id action_bar 0x7f0d0060
