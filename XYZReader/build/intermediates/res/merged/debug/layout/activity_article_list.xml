@@ -24,6 +24,7 @@
                 app:layout_collapseMode="pin">
 
                 <ImageView
+                    android:transitionName="@string/transition_article_image"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:src="@drawable/logo"
