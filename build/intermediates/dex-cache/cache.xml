@@ -151,7 +151,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="45de3cb0cda84716c8aabc00056f682afcaff41b">
+        sha1="db8952ec5e3ca81ce9bf96c1b922b7ca9a415d8a">
         <dex dex="C:\Users\Jay\Documents\GitHub\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d0ae307f8bf4a8c0df6c61570eaf6b39376ece24\classes.dex" />
     </item>
     <item
@@ -187,7 +187,7 @@
         jumboMode="true"
         optimize="true"
         revision="24.0.1"
-        sha1="3edb51286d27b4b09a7e8a05f3054ed77811195b">
+        sha1="048fdc4b2317d8d527d412a2f8e0e28b8df85f0a">
         <dex dex="C:\Users\Jay\Documents\GitHub\XYZReader\XYZReader\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_bb340c6e8e1cdd8085fdfe8edabd5a6b9bf43696\classes.dex" />
     </item>
     <item
