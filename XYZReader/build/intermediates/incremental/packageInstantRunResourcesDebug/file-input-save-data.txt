@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Nov 30 18:04:54 CET 2016
+#Wed Nov 30 21:24:48 CET 2016
 210.set=ANDROID_RESOURCE
 14.set=ANDROID_RESOURCE
 180.file=C\:\\Users\\Jay\\Documents\\GitHub\\XYZReader\\XYZReader\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png

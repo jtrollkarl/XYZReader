@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Nov 30 17:06:36 CET 2016
+#Wed Nov 30 21:25:14 CET 2016
 210.set=ANDROID_RESOURCE
 282.file=C\:\\Users\\Jay\\Documents\\GitHub\\XYZReader\\XYZReader\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\com.android.support-support-fragment-25.0.1_661ec80ac3b3d36c9dd12fddef38fffd6a138433\\classes.dex
 14.set=ANDROID_RESOURCE
